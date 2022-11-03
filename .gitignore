@@ -1,0 +1,11 @@
+Library/
+Builds/
+UserSettings/
+Packages/
+Logs/
+Unity/
+.vscode/
+Assembly-CSharp.csproj
+Bonus.sln
+Temp/
+Solar system.sln
